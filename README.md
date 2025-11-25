@@ -32,7 +32,8 @@ To be sure, I ran a Sensitivity Analysis (visualized in the heatmap below). I wa
 
 **The Takeaway:** Even if growth drops to 6.8% (very low) and interest rates rise, the model still shows the price holding above ₹3,000. This gives me a comfortable "Margin of Safety."
 
-![Valuation Heatmap](sensitivity_heatmap.png)
+![Valuation Heatmap](<img width="745" height="490" alt="Unknown" src="https://github.com/user-attachments/assets/d475e917-fe54-47d8-bf1b-8627ecee334a" />
+)
 
 ## The Code
 The project is built in a single Python notebook/script using:
